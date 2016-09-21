@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/myRetailers"
+            android:checked="false"
+            android:icon="@drawable/location"
+            android:title="My Retailers" />
+
+
+        <item
+            android:id="@+id/todays_accomplishments"
+            android:checked="false"
+            android:icon="@drawable/location"
+            android:title="Today's accomplishments" />
+
+        <item
+            android:id="@+id/pending_retailers"
+            android:checked="false"
+            android:icon="@drawable/location"
+            android:title="Pending Retailers" />
+
+        <item
+            android:id="@+id/sign_out"
+            android:checked="false"
+            android:icon="@drawable/signout"
+            android:title="Sign Out" />
+
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ceekay Tracker</string>
+    <string name="title_activity_retailer_details">RetailerDetails</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="exit_confirmation">Exit</string>
+    <string name="exit_confirmation_message">Are you sure you want to exit the app?</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+    <string name="title_activity_password_change">PasswordChange</string>
+    <string name="pwd_change_message">Please change your password before continuing.</string>
+    <string name="title_activity_retailers_list_view">RetailersListView</string>
+    <string name="reset">Reset</string>
+    <string name="retail_list_viewer">Retailers List</string>
+    <string name="title_activity_pending_retailers">PendingRetailers</string>
+
+    pwd_change_message
+</resources>
